@@ -1,0 +1,3 @@
+anthropic>=0.40.0       # LLM_BACKEND=haiku
+python-dotenv>=1.0.0    # .env file support
+requests>=2.31.0        # LLM_BACKEND=ollama
